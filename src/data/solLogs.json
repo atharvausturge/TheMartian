@@ -1,0 +1,210 @@
+{
+  "phases": [
+    {
+      "phase": "Phase 1 — The Accident & Isolation (Sols 1–6)",
+      "overview": "A violent sandstorm forces the Ares 3 crew to abort their mission. Mark Watney is struck by debris and presumed dead, but he regains consciousness alone on Mars and begins his fight for survival.",
+      "sols": [
+        {
+          "id": "sol-6",
+          "sol_number": 6,
+          "quote": "“I’m pretty much fucked. That’s my considered opinion. Fucked.”(Weir 3)",
+          "summary": "Watney wakes up injured after the storm, discovers he’s been left behind, treats his wound, and begins taking stock of his supplies and situation.",
+          "tags": ["crisis", "humor"]
+        }
+      ]
+    },
+    {
+      "phase": "Phase 2 — Establishing Survival (Sols 7–37)",
+      "overview": "Watney focuses on survival, repairing life support systems, developing a food source, and finding ways to generate water.",
+      "sols": [
+        {
+          "id": "sol-10",
+          "sol_number": 10,
+          "quote": "“Well, I’ve done three EVAs and haven’t found any hint of the communication dish.”(Weir 14)",
+          "summary": "After searching the area multiple times, Watney confirms that the main communication antenna is destroyed, cutting off contact with NASA.",
+          "tags": ["crisis"]
+        },
+    
+        {
+          "id": "sol-14",
+          "sol_number": 14,
+          "quote": "“I got my undergrad degree at the University of Chicago. Half the people who studied botany were hippies who thought they could return to some natural world system.”(Weir 16)",
+          "summary": "He explains his background in botany and begins formulating a plan to grow food on Mars using human waste as fertilizer.",
+          "tags": ["botany", "humor"]
+        },
+        {
+          "id": "sol-16",
+          "sol_number": 16,
+          "quote": "“One complication I hadn’t thought of: Water.”(Weir 18)",
+          "summary": "Watney realizes his potato crops need water and devises a risky plan to generate it by burning hydrazine fuel.",
+          "tags": ["crisis"]
+        },
+        {
+          "id": "sol-32",
+          "sol_number": 32,
+          "quote": "“So I ran into a bunch of problems with my water plan.”(Weir 33)",
+          "summary": "His first water-creation attempt nearly kills him, but he adjusts the process and finally produces enough to sustain his crops.",
+          "tags": ["crisis"]
+        },
+        {
+          "id": "sol-33",
+          "sol_number": 33,
+          "quote": "“This may be my last entry.” / “Well, I didn’t die.”(Weir 35)",
+          "summary": "After a near-fatal hydrogen explosion, Watney narrowly survives and continues his mission to grow food.",
+          "tags": ["crisis", "humor"]
+        },
+        {
+          "id": "sol-37",
+          "sol_number": 37,
+          "quote": "“I am fucked and I’m gonna die!” / “The Hab is now a bomb.”(Weir 36)",
+          "summary": "His experiments with hydrazine make the Hab dangerously volatile; he carefully stabilizes the system and prevents disaster.",
+          "tags": ["crisis"]
+        }
+      ]
+    },
+    {
+      "phase": "Phase 3 — Communication & Contact (Sols 54–97)",
+      "overview": "NASA realizes Watney is alive. Meanwhile, he works to re-establish contact using the old Pathfinder probe.",
+      "sols": [
+        {
+          "id": "sol-66",
+          "sol_number": 66,
+          "quote": "“The time has come (ominous musical crescendo) for some missions!”(Weir 78)",
+          "summary": "Watney begins his trek to retrieve Pathfinder, determined to restore communication with Earth.",
+          "tags": ["humor"]
+        },
+        {
+          "id": "sol-82",
+          "sol_number": 82,
+          "quote": "“Victory! I found it!”(Weir 109)",
+          "summary": "Watney locates the Pathfinder probe buried in Martian soil, his first major step toward recontacting NASA.",
+          "tags": ["humor"]
+        },
+        {
+          "id": "sol-90",
+          "sol_number": 90,
+          "quote": "“Seven days since Pathfinder, and seven days closer to home.”(Weir 115) ",
+          "summary": "Watney works tirelessly to repair Pathfinder and prepare for potential contact.",
+          "tags": ["engineering"]
+        },
+        {
+          "id": "sol-97",
+          "sol_number": 97,
+          "quote": "“It worked! / Holy fucking shit it worked!”(Weir 126)",
+          "summary": "Pathfinder successfully connects with NASA, allowing Watney to communicate with Earth for the first time since the storm.",
+          "tags": ["humor"]
+        }
+      ]
+    },
+    {
+      "phase": "Phase 4 — Routine & Expansion (Sols 98–115)",
+      "overview": "With communication restored, Watney and NASA collaborate to extend his survival plan and optimize resources.",
+      "sols": [
+        {
+          "id": "sol-115",
+          "sol_number": 115,
+          "quote": "“The meddling botanists have grudgingly admitted I did a good job. They agree I’ll have enough food to last till Sol 900.”(Weir 141)",
+          "summary": "Watney’s farming success earns NASA’s approval, confirming that his food supply will last until rescue.",
+          "tags": ["botany"]
+        }
+      ]
+    },
+    {
+      "phase": "Phase 5 — Disaster & Recovery (Sols 116–197)",
+      "overview": "A critical airlock failure destroys his crops, forcing Watney to adapt to new hardships and NASA to plan resupply missions.",
+      "sols": [
+        {
+          "id": "sol-116",
+          "sol_number": 116,
+          "quote": "“It’s almost time for the second harvest. Ayup. I wish I had a straw hat and some suspenders.”(Weir 162)",
+          "summary": "Watney prepares for his second potato harvest, proud of his self-sufficiency.",
+          "tags": ["botany", "humor"]
+        },
+        {
+          "id": "sol-118",
+          "sol_number": 118,
+          "quote": "“My conversation with NASA about the Water Reclaimer was boring and riddled with technical details… So I took it apart.”(Weir 166)",
+          "summary": "Ignoring NASA’s caution, Watney repairs the Water Reclaimer himself, successfully restoring the system.",
+          "tags": ["engineering", "humor"]
+        },
+        {
+          "id": "sol-122",
+          "sol_number": 122,
+          "quote": "“The first thing I did today was line up rocks near the rover to spell ‘A-OK’. That should make NASA happy.” / “The farm is dead.”(Weir 185)",
+          "summary": "A sudden airlock failure kills most of his crops. Watney salvages what remains and resumes rationing food.",
+          "tags": ["crisis"]
+        },
+    
+        {
+          "id": "sol-197",
+          "sol_number": 197,
+          "quote": "“Mars and my stupidity keep trying to kill me.” / “Pathfinder fried with 9 amps. Dead forever. Plan unchanged. Will get to MAV.”(Weir 251)",
+          "summary": "After a short circuit destroys Pathfinder, Watney loses communication again but decides to continue toward Ares 4.",
+          "tags": ["crisis"]
+        }
+      ]
+    },
+    {
+      "phase": "Phase 6 — Journey to Ares 4 (Sols 198–500)",
+      "overview": "Watney begins his trek across Mars toward the Ares 4 site, overcoming technical challenges, isolation, and exhaustion.",
+      "sols": [
+        {
+          "id": "sol-209",
+          "sol_number": 209,
+          "quote": "“Cold night last night. The solar cells were still detached from the farm, so I had to leave the Hab in low-power mode.”(Weir 261)",
+          "summary": "Watney conserves energy and continues his journey across the Martian terrain.",
+          "tags": ["humor"]
+        },
+        {
+          "id": "sol-211",
+          "sol_number": 211,
+          "quote": "“I am smiling a great smile. The smile of a man who fucked with his car and didn’t break it.”(Weir 263)",
+          "summary": "Watney successfully repairs a rover malfunction and continues traveling toward Ares 4.",
+          "tags": ["engineering", "humor"]
+        },
+      
+        {
+          "id": "sol-318",
+          "sol_number": 318,
+          "quote": "“Excellent! I hear you are at Mission Control. Was NASA unable to pipe the signal to Bremen?”(Weir 267)",
+          "summary": "The Hermes crew stays in touch with Earth while preparing for the complex rescue maneuver.",
+          "tags": ["engineering"]
+        },
+        {
+          "id": "sol-376",
+          "sol_number": 376,
+          "quote": "“I’m finally done with the rover modifications!”(Weir 280)",
+          "summary": "Watney finishes modifying his rover for the last leg of his journey to the Ares 4 MAV.",
+          "tags": ["engineering"]
+        }
+      ]
+    },
+    {
+      "phase": "Phase 7 — The Rescue (Sols 501–549)",
+      "overview": "Watney prepares the Ares 4 MAV for launch as NASA and the Hermes crew execute the Rich Purnell Maneuver to bring him home.",
+      "sols": [
+        {
+          "id": "sol-500",
+          "sol_number": 500,
+          "quote": "“When I woke up this morning, the trailer hadn’t popped yet. So that was a good start.”(Weir 343)",
+          "summary": "After a rollover incident, Watney survives and continues final rover checks for launch prep.",
+          "tags": ["humor"]
+        },
+        {
+          "id": "sol-547",
+          "sol_number": 547,
+          "quote": "“I’d be lying if I said I wasn’t sh*tting myself. In 4 hours, I’m going to ride a giant explosion into orbit.”(Weir 368)",
+          "summary": "Watney prepares for the MAV launch, nervous but determined to finally leave Mars.",
+          "tags": ["humor", "engineering"]
+        },
+        {
+          "id": "sol-549",
+          "sol_number": 549,
+          "quote": "“I’m leaving Mars today, one way or another. About f*cking time.”(Weir 369)",
+          "summary": "Commander Lewis captures Watney during a high-risk maneuver in orbit, completing his rescue.",
+          "tags": ["humor"]
+        }
+      ]
+    }
+  ]
+}
