@@ -3,7 +3,7 @@
     "id": "air-oxygen",
     "category": "Air / Oxygen",
     "description": "Maintaining breathable atmosphere in the Hab",
-    "quote": "In the Hab, we had the Oxygenator, a large piece of equipment that could break CO2 apart and give the oxygen back Weir 7).",
+    "quote": "In the Hab, we had the Oxygenator, a large piece of equipment that could break CO2 apart and give the oxygen back (Weir 7).",
     "science_explanation": "The Oxygenator uses electrolysis to split CO2 into carbon and oxygen. It requires power and produces oxygen at a rate that matches human consumption. The regulator maintains proper atmospheric pressure (around 21% oxygen). In real Mars missions, life support systems must balance oxygen generation, CO₂ removal, humidity control, and pressure regulation."
   },
   {
