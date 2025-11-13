@@ -83,18 +83,7 @@ export default function Problems() {
           })}
         </div>
 
-        <div className="mt-12 bg-slate-800 border border-slate-700 rounded-xl p-8 text-center">
-          <h3 className="text-2xl font-bold text-white mb-3">Want to Experiment?</h3>
-          <p className="text-gray-300 mb-6">
-            Head to the DIY Labs section to try interactive calculators based on these survival challenges.
-          </p>
-          <a
-            href="/labs"
-            className="inline-block bg-red-600 hover:bg-red-700 text-white font-semibold px-8 py-3 rounded-lg transition-colors"
-          >
-            Go to DIY Labs →
-          </a>
-        </div>
+    
       </div>
     </div>
   );
