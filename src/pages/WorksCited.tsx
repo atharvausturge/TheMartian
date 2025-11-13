@@ -94,7 +94,7 @@ export default function WorksCited() {
         </div>
 
         <div className="mt-8 bg-gradient-to-r from-red-900/30 to-orange-900/30 border border-red-800 rounded-xl p-8">
-         
+         <h3 className="text-white font-semibold text-center">Thank you for visiting from Atharva!</h3>
         </div>
       </div>
     </div>

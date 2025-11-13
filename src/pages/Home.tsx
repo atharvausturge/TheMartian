@@ -31,7 +31,7 @@ export default function Home() {
             Survive. Adapt. Science the Impossible.
           </p>
           <p className="text-lg text-gray-300 max-w-3xl mx-auto mb-12 leading-relaxed">
-           A website all about the journey of Mark Watney in "The Martian" and the real science behind survival on Mars.
+           A website all about the journey of Mark Watney in "The Martian" and the real science behind survival on Mars. -  Coded By Atharva Usturge
           </p>
 
          
