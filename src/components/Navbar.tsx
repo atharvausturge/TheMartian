@@ -18,7 +18,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center space-x-2 hover:opacity-80 transition-opacity">
             <Rocket className="w-6 h-6 text-red-500" />
-            <span className="font-bold text-lg">The Martian</span>
+            <span className="font-bold text-lg">The Martian Survival Site</span>
           </Link>
           <div className="flex space-x-1">
             {navLinks.map((link) => (
