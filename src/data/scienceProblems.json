@@ -3,35 +3,35 @@
     "id": "air-oxygen",
     "category": "Air / Oxygen",
     "description": "Maintaining breathable atmosphere in the Hab",
-    "quote": "The Oxygenator is producing O2 just fine. The regulator is what I need to worry about.",
+    "quote": "In the Hab, we had the Oxygenator, a large piece of equipment that could break CO2 apart and give the oxygen back(Weir 7).",
     "science_explanation": "The Oxygenator uses electrolysis to split CO2 into carbon and oxygen. It requires power and produces oxygen at a rate that matches human consumption. The regulator maintains proper atmospheric pressure (around 21% oxygen). In real Mars missions, life support systems must balance oxygen generation, CO₂ removal, humidity control, and pressure regulation."
   },
   {
     "id": "water-hydration",
     "category": "Water / Hydration",
     "description": "Creating water from rocket fuel",
-    "quote": "If I want water, I'll have to make it from scratch. Fortunately, I know the recipe: Take hydrogen. Add oxygen. Burn.",
+    "quote": "If I want water I’l have to make it from scratch. Fortunately, I know the recipe: Take hydrogen. Add oxygen. Burn(Weir 29)",
     "science_explanation": "Water (H2O) can be created by burning hydrogen and oxygen in a controlled reaction: 2H2 + O2 → 2H2O. The hydrazine in rocket fuel can be broken down to release hydrogen. This is extremely dangerous due to explosive risks and requires careful management of ratios and ignition. Real Mars missions will likely extract water from ice deposits rather than manufacturing it."
   },
   {
     "id": "food-botany",
     "category": "Food / Botany",
     "description": "Growing potatoes in Martian soil",
-    "quote": "They say once you grow crops somewhere, you have officially colonized it. So, technically, I colonized Mars.",
+    "quote": "They say once you grow crops somewhere, you have officially 'colonized' it. So, technically, I colonized Mars.(Weir 159)",
     "science_explanation": "Martian soil (regolith) contains nutrients but lacks organic matter and beneficial microbes. By mixing it with Earth soil and fertilizer (human waste), Mark creates a growing medium. Potatoes are ideal because they're calorie-dense, grow from eyes, and are resilient. Real challenges include Mars' low atmospheric pressure, lack of liquid water, and need for temperature/humidity control. NASA is researching aeroponics and hydroponics for Mars agriculture."
   },
   {
     "id": "power-energy",
     "category": "Power / Energy",
     "description": "Managing solar and RTG power sources",
-    "quote": "My conversation with NASA about the battery capacity was a bit moot. I have to balance power, life support, and heat.",
+    "quote": "There’s no need to have a continuous power supply. When Battery 1 runs out, I can get out, unplug Battery 1 and plug in Battery 2.(Weir 76)",
     "science_explanation": "The Mars habitat relies on solar panels for primary power and an RTG (Radioisotope Thermoelectric Generator) for backup. Solar panels on Mars produce less power than on Earth due to distance from sun (44% of Earth's solar intensity) and dust accumulation. RTGs use heat from radioactive decay to generate electricity reliably but produce limited power. Energy budgeting is critical: life support, heating, and equipment must not exceed generation capacity."
   },
   {
     "id": "communications-rescue",
     "category": "Communications / Rescue",
     "description": "Reestablishing contact with Earth",
-    "quote": "I'm on a planet with no magnetic field, so there's no radiation protection. I'm cooking in my suit.",
+    "quote": "With no magnetic field, Mars has no defense against harsh solar radiation. If I were exposed to it, I’d get so much cancer, the cancer(Weir 119)",
     "science_explanation": "Mars communications require line-of-sight to satellites or Earth-facing antennas. Radio signals travel at light speed, creating an 8-20 minute delay each way depending on planetary positions. The Pathfinder mission rover provides a backup communication method. Real Mars missions will use orbital relay satellites and direct-to-Earth high-gain antennas. Radiation exposure is a major concern for EVA activities and long-term Mars habitation."
   }
 ]
